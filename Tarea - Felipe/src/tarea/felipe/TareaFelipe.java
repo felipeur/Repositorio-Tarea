@@ -11,20 +11,13 @@ package tarea.felipe;
  */
 public class TareaFelipe {
 
-    /**
-     * 
-     * 
-     * 
-     * 
-     * 
-     * El color verde indica que esta linea fue añadida
-     * @param args the command line arguments
-     */
+  String prueba;
+  int prueba2;
+  
     public static void main(String[] args) {
         // TODO code application logic here l
         
-        
-        
+       
     }
     
 }
